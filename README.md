@@ -9,10 +9,10 @@ El objetivo de este repositorio es gestionar de forma colaborativa los archivos 
 
 ## Integrantes del grupo
 
-- Miguel Garrido
-- 
-- 
-- 
+- Miguel 
+- Mikel 
+- Juan 
+- Pablo
 
 ## Estructura del repositorio
 
